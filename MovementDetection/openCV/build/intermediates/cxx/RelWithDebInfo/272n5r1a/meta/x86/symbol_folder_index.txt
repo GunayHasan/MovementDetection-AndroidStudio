@@ -1,0 +1,1 @@
+C:\Users\gunay\AndroidStudioProjects\MovementDetection\openCV\build\intermediates\cxx\RelWithDebInfo\272n5r1a\obj\x86

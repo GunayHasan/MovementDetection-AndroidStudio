@@ -1,0 +1,1 @@
+C:\Users\gunay\AndroidStudioProjects\MovementDetection\openCV\build\intermediates\cxx\Debug\6067n4c5\obj\arm64-v8a

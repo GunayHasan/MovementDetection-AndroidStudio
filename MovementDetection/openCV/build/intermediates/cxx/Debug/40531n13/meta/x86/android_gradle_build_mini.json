@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\gunay\\AndroidStudioProjects\\MovementDetection\\openCV\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\gunay\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\gunay\\AndroidStudioProjects\\MovementDetection\\openCV\\.cxx\\Debug\\40531n13\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\gunay\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\gunay\\AndroidStudioProjects\\MovementDetection\\openCV\\.cxx\\Debug\\40531n13\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "C:\\Users\\gunay\\AndroidStudioProjects\\MovementDetection\\openCV\\.cxx\\Debug\\40531n13\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

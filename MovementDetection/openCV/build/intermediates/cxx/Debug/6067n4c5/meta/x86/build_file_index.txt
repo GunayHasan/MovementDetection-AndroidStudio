@@ -1,0 +1,1 @@
+C:\Users\gunay\AndroidStudioProjects\MovementDetection\openCV\libcxx_helper\CMakeLists.txt
